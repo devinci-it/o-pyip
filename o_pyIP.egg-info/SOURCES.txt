@@ -1,0 +1,11 @@
+README.md
+setup.py
+o_pyIP.egg-info/PKG-INFO
+o_pyIP.egg-info/SOURCES.txt
+o_pyIP.egg-info/dependency_links.txt
+o_pyIP.egg-info/entry_points.txt
+o_pyIP.egg-info/requires.txt
+o_pyIP.egg-info/top_level.txt
+src/NetworkInterfaceManager.py
+src/__init__.py
+src/cli.py

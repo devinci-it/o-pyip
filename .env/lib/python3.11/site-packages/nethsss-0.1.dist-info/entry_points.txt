@@ -1,0 +1,2 @@
+[console_scripts]
+nethsss = src.cli:main

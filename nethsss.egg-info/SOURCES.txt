@@ -1,0 +1,11 @@
+README.md
+setup.py
+nethsss.egg-info/PKG-INFO
+nethsss.egg-info/SOURCES.txt
+nethsss.egg-info/dependency_links.txt
+nethsss.egg-info/entry_points.txt
+nethsss.egg-info/requires.txt
+nethsss.egg-info/top_level.txt
+src/NetworkInterfaceManager.py
+src/__init__.py
+src/cli.py
