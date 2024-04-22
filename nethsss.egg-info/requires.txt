@@ -1,4 +1,0 @@
-argparse
-colorama
-netifaces
-tabulate
